@@ -1,0 +1,6 @@
+min_area=100000
+line_height=200
+key_walk=w
+key_jump=space
+use_keyboard=True
+start_delay=5
